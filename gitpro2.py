@@ -11,4 +11,5 @@ def voter(x):
 
 voter(user_input)
 print("prateek")
-print("saxena")
+print("saxenas")
+print("Kumar")
